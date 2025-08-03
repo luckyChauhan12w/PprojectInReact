@@ -17,17 +17,9 @@ A simple, modern password generator built with **React**, powered by **Vite**, a
 - Fast development environment using **Vite**
 
 ---
-
-## 🛠 Tech Stack
-
-- ⚛️ React 19
-- ⚡ Vite 7
-- 🎨 Tailwind CSS
-- 🔔 React Toastify
-- 🧹 ESLint
-- 🚀 GitHub Pages (`gh-pages`)
-
+## Projet Url 
 ---
+📍Project Link :- https://password-generator-in-react-nine.vercel.app/ 
 
 ## 📦 Installation
 
